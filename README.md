@@ -113,10 +113,15 @@ cat logs/user_passwords.txt
 8. EXAMPLE LOG OUTPUT:
 
 2025-11-13 14:55:12 - ----- Starting User Creation Process -----
+
 2025-11-13 14:55:12 - Processing user: light
+
 2025-11-13 14:55:12 - Created group: dev
+
 2025-11-13 14:55:12 - Created user: light
+
 2025-11-13 14:55:12 - Password set for light
+
 2025-11-13 14:55:12 - ----- User Creation Process Completed -----
 
 
